@@ -1,0 +1,7 @@
+com\springboot\microservice\customer\Address$AddressType.class
+com\springboot\microservice\customer\Customer.class
+com\springboot\microservice\customer\CustomerManagementController.class
+com\springboot\microservice\customer\CustomerRepository.class
+com\springboot\microservice\customer\SpringBootMicroserviceCustomerManagementApplication.class
+com\springboot\microservice\customer\CurrencyExchangeServiceProxy.class
+com\springboot\microservice\customer\Address.class
